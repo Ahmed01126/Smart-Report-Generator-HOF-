@@ -84,12 +84,4 @@ java ReportProcessor
 
 - Java 8 or higher (for lambda and functional interface support).
 
----
 
-## License
-
-This project is open-source and free to use.
-
----
-
-If you want, I can help you add badges, contribution guidelines, or a license file!
